@@ -19,7 +19,7 @@
 ### 📫 How To Reach Me ...
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dahg/)
-[![Instagram](https://img.shields.io/badge/daniel_hdz_g-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/daniel_hdz_g/)
-[![Twitter](https://img.shields.io/badge/@Daniel_Hdz_G-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Daniel_Hdz_G)
+[![Instagram](https://img.shields.io/badge/dannyhg_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dannyhg_/)
+[![Twitter](https://img.shields.io/badge/@dannyhg__-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/dannyhg__)
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/dahg)
 [![Twitch](https://img.shields.io/badge/DUXDAN-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/duxdan)
