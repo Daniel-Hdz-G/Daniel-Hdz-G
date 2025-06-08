@@ -1,25 +1,24 @@
 # Welcome! Daniel Here! 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-hdz-g)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-hdz-g)](https://github.com/anuraghazra/github-readme-stats)
+![daniel-hdz-g's Stats](https://github-readme-stats.vercel.app/api?username=daniel-hdz-g&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+![daniel-hdz-g's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-hdz-g&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
 ### 💡 My Main Abilities...
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ### 📔 Currently Learning...
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Lit](https://skillicons.dev/icons?i=lit)](https://lit.dev/)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
 
 ### 📫 How To Reach Me ...
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dahg/)
-[![Instagram](https://img.shields.io/badge/dannyhg_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dannyhg_/)
-[![Twitter](https://img.shields.io/badge/@dannyhg__-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/dannyhg__)
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/dahg)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dahg/)  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dannyhg_/)  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dnnbth)
+
+[![Coursera](https://img.shields.io/badge/dahg-%230056D2.svg?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/learner/dahg)
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/dahg)
 [![Twitch](https://img.shields.io/badge/DUXDAN-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/duxdan)
